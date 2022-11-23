@@ -1,0 +1,49 @@
+CARICARE UNA FOTO SU INSTAGRAM
+
+Apro la galleria del telefono
+
+Scorro gli album
+
+    IF L'album è quello dell'estate
+        - Seleziona l'album
+
+    ELSE 
+        -Continuo a scorrere
+
+Scorro le foto dell'album dell'estate
+
+    FI se la foto mi piace
+        - Seleziono la foto
+
+    ELSE
+        - Continua a scorrere
+
+Apro il menù filtri
+
+Scorro i filtri
+
+    IF il filtro mi piace
+        - Lo seleziono
+
+    ELSE
+        - Continuo a scorrere
+
+Apro il menù "condividi"
+
+Scorro le applicazioni disponibili
+
+    IF è Instagram
+        - Lo Seleziono
+
+    ELSE 
+        - Continuo a scorrere le applicazioni
+
+Scorro i tipi di pubblicazione
+
+    IF come post
+        - Clicco su condividi
+
+    ELSE
+        - Continuo a scorrere
+
+    
